@@ -13,7 +13,7 @@ This repository is my centralized system for:
 4. Influential sales pros worth studying
 
    
-$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
 sales-hub/
 │
 ├── README.md
