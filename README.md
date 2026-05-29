@@ -1,10 +1,10 @@
 Sales Knowledge Hub
-=================================
+├──────────────────────────────────
 
 Internal sales playbook for Greene Aeration and myself.
 This repository is my centralized system for:
 
-$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
 
 0. Sales book notes
 1. non book accumulated sales tactics
