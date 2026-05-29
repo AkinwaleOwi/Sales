@@ -13,8 +13,8 @@ This repository is my centralized system for:
 4. Influential sales pros worth studying
 
    
-
 sales-hub/
+
 │
 ├── README.md
 │
@@ -46,7 +46,8 @@ sales-hub/
 
 ├── people-to-study/
 
-$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
 Mission
 
 We are building a long-term competitive advantage in:
@@ -56,7 +57,7 @@ b. Comic book sales
 c. Audience growth
 d. High-retention fandom ecosystems
 
-$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
 This repo exists to:
 
 0. Capture proven sales knowledge
