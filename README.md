@@ -1,5 +1,5 @@
 Sales Knowledge Hub
-├──────────────────────────────────
+
 
 Internal sales playbook for Greene Aeration and myself.
 This repository is my centralized system for:
@@ -13,7 +13,7 @@ This repository is my centralized system for:
 4. Influential sales pros worth studying
 
    
-$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 sales-hub/
 │
 ├── README.md
