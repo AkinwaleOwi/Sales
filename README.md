@@ -1,6 +1,6 @@
-#Sales Knowledge Hub
+# Sales Knowledge Hub
 
-##Internal sales playbook for Greene Aeration and myself.
+## Internal sales playbook for Greene Aeration and myself.
 
 This repository is my centralized system for:
 
