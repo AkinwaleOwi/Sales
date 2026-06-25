@@ -10,6 +10,9 @@
 - CRM + sales software stack
 - Influential sales pros worth studying
 
+# 📁 Repository Structure
+
+```text
 │
 ├── README.md
 │
@@ -41,8 +44,9 @@
 
 ├── people-to-study/
 
+```
 
-
+---
 # Mission
 
 We are building a long-term competitive advantage in:
