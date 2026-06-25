@@ -2,6 +2,16 @@
 
 ## Internal sales playbook for Greene Aeration and myself.
 
+# Mission
+
+We are building a long-term competitive advantage in:
+
+- Video game marketing
+- Comic book sales
+- Audience growth
+- High-retention fandom ecosystems
+
+
 ### This repository is my centralized system for:
 
 - Sales book notes
@@ -9,6 +19,14 @@
 - Sales angles for projects
 - CRM + sales software stack
 - Influential sales pros worth studying
+
+## This repo exists to:
+
+- Capture proven sales knowledge
+- Build repeatable launch systems
+- Develop stronger positioning
+- Improve conversion rates
+- Create memorable fan experiences
 
 # 📁 Repository Structure
 
@@ -47,20 +65,3 @@
 ```
 
 ---
-# Mission
-
-We are building a long-term competitive advantage in:
-
-a. Video game marketing
-b. Comic book sales
-c. Audience growth
-d. High-retention fandom ecosystems
-
-
-## This repo exists to:
-
-0. Capture proven sales knowledge
-1.Build repeatable launch systems
-2. Develop stronger positioning
-3. Improve conversion rates
-4. Create memorable fan experiences
