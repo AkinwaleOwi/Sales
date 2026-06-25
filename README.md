@@ -2,7 +2,7 @@
 
 ## Internal sales playbook for Greene Aeration and myself.
 
-###This repository is my centralized system for:
+### This repository is my centralized system for:
 
 - Sales book notes
 - Non book accumulated sales tactics
