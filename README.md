@@ -43,7 +43,7 @@
 
 
 
-Mission
+# Mission
 
 We are building a long-term competitive advantage in:
 
@@ -53,7 +53,7 @@ c. Audience growth
 d. High-retention fandom ecosystems
 
 
-This repo exists to:
+## This repo exists to:
 
 0. Capture proven sales knowledge
 1.Build repeatable launch systems
