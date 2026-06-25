@@ -2,18 +2,13 @@
 
 ## Internal sales playbook for Greene Aeration and myself.
 
-This repository is my centralized system for:
+###This repository is my centralized system for:
 
-
-
-0. Sales book notes
-1. non book accumulated sales tactics
-2. sales angles for projects
-3. CRM + sales software stack
-4. Influential sales pros worth studying
-
-   
-sales-hub/
+- Sales book notes
+- Non book accumulated sales tactics
+- Sales angles for projects
+- CRM + sales software stack
+- Influential sales pros worth studying
 
 │
 ├── README.md
